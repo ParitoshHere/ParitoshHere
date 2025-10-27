@@ -2,9 +2,8 @@
 
 I'm a B.Tech student with a passion for learning and exploring the world of coding.
 
-🌱 Currently, I'm getting started with programming, primarily using Python and C. I'm excited to embark on this coding journey and develop new skills.
+🌱 Currently, I'm developing my skills and exploring the world of codes.
 
-📚 While I may not have any projects to showcase just yet, my GitHub will be a reflection of my growth as a programmer. I'll be adding new projects and code as I learn and progress.
 
 📫 Connect with me:
 - 📧 Email: paritoshsahu2005@gmail.com
